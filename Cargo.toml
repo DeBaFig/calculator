@@ -1,6 +1,8 @@
 [package]
-name = "calculator"
+name = "calculator-denize"
 version = "0.1.0"
 edition = "2024"
+description = "Primeira lib usando rust"
+license = "MIT"
 
 [dependencies]
